@@ -29,10 +29,6 @@ ASSUSERNAME = getenv("ASSUSERNAME")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 #---------------------------------------------------------------
 
-# Vars For API End Pont.
-API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-API_KEY = getenv("API_KEY", "30DxNexGenBotsc0db7b") # youtube song api key, get it from https://t.me/APNA_SYSTEH
-
 #---------------------------------------------------------------
 
 # ----------------------------------------------------------------

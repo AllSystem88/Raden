@@ -42,7 +42,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/DeepVikky88/Radha",
+    "https://github.com/AllSystem88/Raden",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -101,14 +101,14 @@ confirmer = {}
 file_cache: dict[str, float] = {}
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/gcdj6a.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/ncv2zt.jpg"
 )
     
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/546yuv.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/o5i5oz.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/cfv24b.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/o5i5oz.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/lc7cye.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/lc7cye.jpg"
 STREAM_IMG_URL = "https://graph.org/file/ff2af8d4d10afa1baf49e.jpg"

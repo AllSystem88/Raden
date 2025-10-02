@@ -27,10 +27,10 @@ from strings import get_string
 
 NEXI_VID = [
 "https://files.catbox.moe/ncv2zt.jpg",
-"https://files.catbox.moe/je3035.jpg",
-"https://files.catbox.moe/kw5o07.jpg",
-"https://files.catbox.moe/yo4jr1.jpg",
-"https://files.catbox.moe/gfbo9x.jpg",
+"https://files.catbox.moe/ncwo02.jpg",
+"https://files.catbox.moe/97s3ca.jpg",
+"https://files.catbox.moe/fi6pwq.jpg",
+"https://files.catbox.moe/0ceryv.jpg",
     
 ]
 
@@ -161,4 +161,5 @@ async def welcome(client, message: Message):
                 await message.stop_propagation()
         except Exception as ex:
             print(ex)
+
 

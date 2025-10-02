@@ -26,7 +26,7 @@ from strings import get_string
 #--------------------------
 
 NEXI_VID = [
-"https://files.catbox.moe/jnaxxr.jpg",
+"https://files.catbox.moe/ncv2zt.jpg",
 "https://files.catbox.moe/je3035.jpg",
 "https://files.catbox.moe/kw5o07.jpg",
 "https://files.catbox.moe/yo4jr1.jpg",
@@ -161,3 +161,4 @@ async def welcome(client, message: Message):
                 await message.stop_propagation()
         except Exception as ex:
             print(ex)
+

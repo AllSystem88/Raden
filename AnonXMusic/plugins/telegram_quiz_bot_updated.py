@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # ====== TELEGRAM API CONFIG ======
 api_id = '12380656'
 api_hash = 'd927c13beaaf5110f25c505b7c071273'
-session_string = '1BZWaqwUAUMXpkprM7vw9g1l_fLkn3q0PIZuyeo1X9b47TUOD5EbDYT2z_FPZtLyG3WvBXWRT129EXnL7aXaoSt3pQ7twadTTUMadeNV7j9jo-dUuBZcgkabzsuLhmbOKBdl1_OGUCcKH6BAH7amHNmNUvSZIe_dRG99yY1VnYacWnUDKGsrhXLbymBIRsFzowHzJ1ny_TJfq-xZ4Jccwwvx5P1j86g0E-2fadRS3U8yaNPj-_arTbskghhek7NHRsNfNGvl6ZWwCtmV_aYha6r8JA36IY8AbJS0H4qBRruyTIqc-1AO-h1oKclXQp28IbqhlJlRifrG1vbeY7ElNUlytsc4MId4='
+session_string = 'BQGUgtcAmrhjGaup9V3AoK3AwWnaOO_L_rihRQdYYG09sPvOjCNZKK-abcr6GHWa_uD17tSkRRD0s4Kjl6VpoPxNITABbUD5R4XS0WV3BiM_wqQStrO2y4OXLgceejPLONBmleoX68O-Y_icDoHNbAj8JFaYWwQABwDtIY-Yxi2EzUYpeslsuAEQKNXd-IbkHeNVGiAIqf5O0SdzcmwXPak560LDk1DudQcZnhQWH2bH6SFFMAnOLnD2Uihz3PKb_XyHCBI9pxUkaVUNjnDfY-8ld-3RkdR1rabbpa8UtkZjq_0wwcY4h-11fiifzmdJQuF3pDICVIIyGH1nyrz4lNSmHnqCVQAAAAGoWZ_5AA'
 
 client = TelegramClient(StringSession(session_string), api_id, api_hash)
 

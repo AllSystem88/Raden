@@ -20,9 +20,10 @@ client = TelegramClient(StringSession(session_string), api_id, api_hash)
 # Put channel usernames or numeric IDs here.
 # Users must be a member of ALL channels in this list
 REQUIRED_CHANNELS = [
+    '[ꜱᴛʏʟɪꜱʜ ꜰᴏɴᴛ](https://t.me/FONT_CHANNEL_01)',
     '[ᴇxᴀᴍᴘᴜʀ](https://t.me/exampurrs)',
     '[ᴇxᴀᴍᴘᴜʀ Qᴜɪᴢ](https://t.me/exampurss_official)',
-    '[ꜱᴛʏʟɪꜱʜ ꜰᴏɴᴛ](https://t.me/FONT_CHANNEL_01)',
+    '[ꜱᴀʀᴋᴀʀɪ ʀᴇꜱᴜʟᴛ](https://t.me/sarakari_result)',
     # Example with numeric ID: -1001234567890
 ]
 

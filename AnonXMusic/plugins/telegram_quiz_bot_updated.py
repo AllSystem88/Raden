@@ -104,7 +104,7 @@ async def pn_handler(event):
     if not await is_user_subscribed_to_all(event.sender_id):
         await event.reply(
             "⚠️ You must join all required channels before using this bot.\n"
-            + "\n".join(f"👉 https://t.me/{c}" for c in REQUIRED_CHANNELS if isinstance(c, str))
+            + "\n".join(f"👉 {c}" for c in REQUIRED_CHANNELS if isinstance(c, str))
         )
         return
 

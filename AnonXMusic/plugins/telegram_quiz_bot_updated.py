@@ -22,6 +22,7 @@ client = TelegramClient(StringSession(session_string), api_id, api_hash)
 REQUIRED_CHANNELS = [
     '[ᴇxᴀᴍᴘᴜʀ](https://t.me/exampurrs)',
     '[ᴇxᴀᴍᴘᴜʀ Qᴜɪᴢ](https://t.me/exampurss_official)',
+    '[ꜱᴛʏʟɪꜱʜ ꜰᴏɴᴛ](https://t.me/FONT_CHANNEL_01)',
     # Example with numeric ID: -1001234567890
 ]
 

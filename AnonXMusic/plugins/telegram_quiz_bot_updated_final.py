@@ -15,7 +15,7 @@ api_id = 12380656
 api_hash = "d927c13beaaf5110f25c505b7c071273"
 bot_token = "7679920689:AAE0L-ChxmVVpEWJ5YMsj3Hygip9zm1tKF0"
 
-client = TelegramClient(StringSession(session_string), api_id, api_hash)
+client = TelegramClient(bottoken(bot_token), api_id, api_hash)
 
 # ================= MONGODB =================
 mongo = MongoClient("mongodb://localhost:27017")

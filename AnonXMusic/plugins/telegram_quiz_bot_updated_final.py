@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 # ================= TELEGRAM API =================
 api_id = 12380656
 api_hash = "d927c13beaaf5110f25c505b7c071273"
-session_string = "YOUR_STRING_SESSION"
+session_string = "1BZWaqwUAUHcMZHgOw1mq4wgKvV5-Fs9f7P6gSB5WsmXgMPM9yCRHmyrWs9isnGYieoJ1ZOCgm0lhw-LHIBpNQdPZvP7yvvx8NTtaQ3ibdeN3CHgCwJpHVUUR4pqYa7lN6hz07aGevM3iXWik8TujEAV6SQ4CY-s1twflbfYKypnK6Nrq1zYOC81GSXEU1jz0uXzc0JvCEN4zgzhV8bjsTFcGZN9OXn5dn74MAm8_M5cukVukr7zqmFi97tPDIOxtfOUFb7BYCGCKOiFaPERlOYrr5IL6fe6zXqzDcRAMbM8Nr_UbwVW5boTyMAAGL1q_gayhYqGIH8URgz1IVHAU2j8je-IWXw0="
 
 client = TelegramClient(StringSession(session_string), api_id, api_hash)
 

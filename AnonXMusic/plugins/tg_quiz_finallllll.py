@@ -40,7 +40,7 @@ CHANNEL_DISPLAY = {
 DB_NAME = 'poll_bot.db'
 
 # Admin user IDs (replace with your admin user IDs)
-ADMIN_IDS = [7877358634, 6644859358]  # Add your Telegram user IDs here
+ADMIN_IDS = [6644859358, 8451305181, 7183060880]  # Add your Telegram user IDs here
 
 def init_database():
     """Initialize SQLite database with schema migration support"""

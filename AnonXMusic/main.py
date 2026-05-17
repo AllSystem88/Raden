@@ -4,7 +4,7 @@ from telethon.tl import types, functions
 from telethon.tl.functions.channels import GetParticipantRequest
 from telethon.errors import UserNotParticipantError
 import re
-import timee
+import time
 import random
 import asyncio
 import logging

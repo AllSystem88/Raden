@@ -18,7 +18,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # Replace with your values
 api_id = '12380656'
 api_hash = 'd927c13beaaf5110f25c505b7c071273'
-session_string = '1BZWaqwUAUIDPcS1fOTGUfrmKs0qOdidJmMVSBJmxh7x5JO06RGfZR4eAKE_zCkuRi-oZ0APmWLrz09l-OZXhn_7q8FXpYgibZO4YE2TvDhm8zi-okBQTP_Je37qlRjOUvJTdxbmmLHPdvlhjbkxVW0W2tq30auw1qwtv0DLAwnz5bt1AoJM-7kgXcLnysx2-oPS1ZbBXartCu4rlBDPH2H3mOCDycqtQqdc5Hx0cVxkm3ReKnw_J6yqGhHOku_hICp30ZnDkYzSofgQlgp14nnKmdHuGpL3JmrGseLB_9Go-wFXRHykZfvSA-Y9_bEYCzEYRxjG9J4MNAUS1DEauOmZm1wkt01E='
+session_string = '1BZWaqwUAUIq2u_5vaUSfg3TO9LRCBpCEOIhaqhDUAsEwpQH9hxk9WalC-W2M4sLtH5M_8fXfFTIpSbVTFeLv4q4ke2UI3G5Q8mVXMJnGtYxOFUgFw8UTUiVxF97cQG5Dy1LCvLF-UG-E7Huvh7S5C3wPMsPy5OFQSkgUvcufMjus0dkXrxCHN8ggzdE2f3GEFZevlFFpX9PbLsOHOwVIknyihvnQ2pl2XVMhan5GOruWTzNmrC605DLX_OX5kArRlcR_0cCl8U-J8-wi12RY5OQ6b6Pxe2Muv9Y86yYkKBt_dtUhz9jWNGc_1I--6um2nDghs98-P6zRhSQ05b1Ndm-H45DOCEI='
 
 # Channel IDs that users must join with markdown formatting
 REQUIRED_CHANNELS = [
